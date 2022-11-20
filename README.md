@@ -5,9 +5,3 @@
 # Passo a passo:
 
 ### 1° Vamos criar a tela de login com a IDE NetBeans.
-
-- Tela de login
-- Tela de Menu
-- Tela de Cadastro
-
-### 2° Desenvolver o codigo Backend que implementará as funções dos botões dos Forms.
