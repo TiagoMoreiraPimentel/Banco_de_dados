@@ -5,3 +5,7 @@
 # Passo a passo:
 
 ### 1° Vamos criar a tela de login com a IDE NetBeans.
+
+- Tela de login
+- Tela de Menu
+- Tela de Cadastro
